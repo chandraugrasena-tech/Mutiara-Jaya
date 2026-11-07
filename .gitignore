@@ -1,0 +1,13 @@
+.vscode/
+
+backend/.env
+backend/vendor/
+backend/node_modules/
+
+frontend/node_modules/
+frontend/dist/
+frontend/.env*
+!frontend/.env.example
+
+
+frontend/src/utils/*.backup.*
